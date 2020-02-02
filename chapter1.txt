@@ -1,2 +1,7 @@
+
 hello i am learning git for the second time
 this is master branch
+
+hello i am learning git 
+this is alien plot 
+
